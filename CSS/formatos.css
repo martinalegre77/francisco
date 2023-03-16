@@ -1,0 +1,14 @@
+.titulo {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: #6FC;
+}
+.borde_imagen {
+	border: 5px solid #660;
+}
+.datos {
+	color: #063;
+	background-color: #FF0;
+}
